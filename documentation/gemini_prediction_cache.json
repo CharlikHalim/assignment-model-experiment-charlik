@@ -1,0 +1,10 @@
+{
+  "gemini-3.5-flash-lite|zero-shot-v1|Puas banget belanja disini, proses cepat dan barang aman.": "positif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Terima kasih seller, barangnya awet dan sesuai deskripsi.": "positif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Pengiriman lambat sekali, sudah dua minggu belum sampai.": "negatif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Respon penjual lambat dan terkesan tidak peduli komplain.": "negatif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Ukuran dan warna berbeda dari pesanan, sangat kecewa.": "negatif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.": "positif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Komplain tidak ditanggapi sama sekali oleh penjual.": "negatif",
+  "gemini-3.5-flash-lite|zero-shot-v1|Harga worth it dengan kualitas yang didapat, sangat puas.": "positif"
+}
